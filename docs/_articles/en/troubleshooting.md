@@ -24,4 +24,3 @@ Make sure you compiled your Java code with the same Java version and path thatâ€
 
 Highly possible that you referenced a class in your Custom Rule Java code from the PMD library which is not available in version 6.22.0. Make sure that you reference only PMD features/classes that are available in 6.22.0
 
-
